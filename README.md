@@ -2,6 +2,8 @@
 
 # About:
 
+Forked from https://github.com/digital-wonderland/docker-zookeeper to bump to 3.4.12
+
 [Docker](http://www.docker.com/) image based on [openjdk:8-jre-alpine](https://github.com/docker-library/openjdk/blob/master/8-jre/alpine/Dockerfile)
 
 # Additional Software:
